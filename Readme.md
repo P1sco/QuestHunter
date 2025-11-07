@@ -25,7 +25,7 @@ You can run this utility either by downloading the compiled executable (Recommen
 
 #### 1. Pre-compiled Executable (Recommended for Windows)
 
-1.  Go to the [**Releases Page**](https://github.com/P1sco/QuestHunter/releases/tag/Win).
+1.  Go to the [**Releases Page**](https://github.com/P1sco/QuestHunter/releases/tag/1.1).
 2.  Download the latest executable file (e.g., `QuestHunter.exe` or the corresponding ZIP file).
 3.  Extract the contents to a location of your choice.
 4.  Proceed to **Usage** step 2.
@@ -61,13 +61,13 @@ You can run this utility either by downloading the compiled executable (Recommen
 * **If using the executable:** Double-click the downloaded `QuestHunter.exe` file.
 * **If running from source:**
     ```bash
-    python testy.py
+    python questHunter.py
     ```
 
 #### 2. Using the GUI
 
 1.  The **Quests Hunter** window will appear. It will attempt to connect to the remote server to fetch the latest quest banners and game links.
-2.  **Click on the quest banner/image** corresponding to the game you need to emulate.
+2.  **Click on Run Replica** corresponding to the game you need to emulate.
 3.  The application will automatically handle file creation, copying, and launching the placeholder executable to successfully spoof your game presence to Discord.
 4.  **Keep the console window and the launched process running** until your Discord Quest progress updates (typically 15-30 minutes of "playtime").
 5.  Once the quest is complete, you can safely close the launched process and the **Quests Hunter** application.
