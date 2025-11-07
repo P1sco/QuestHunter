@@ -47,8 +47,9 @@ You can run this utility either by downloading the compiled executable (Recommen
     The launcher requires two placeholder files in a specific directory to perform the necessary file copying for emulation:
     * Create a directory structure: `Binaries/Win64/en-US`
     * Place your placeholder files here:
-        * `Binaries/Win64/main.mfs`
         * `Binaries/Win64/en-US/source.mui`
+    * Compile Gif.py to main.exe and rename it to main.mfs and plac it here:
+        * `Binaries/Win64/main.mfs`
     > **Note:** These files should be the lightweight stub files you intend to use for the emulation process.
 
 ---
