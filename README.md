@@ -105,5 +105,3 @@ Pisco - [https://github.com/P1sco/](https://github.com/P1sco/)
 Project Link: [https://github.com/P1sco/QuestHunter](https://github.com/P1sco/QuestHunter)
 
 ---
-
-Now that the `README.md` is complete and includes all your links, **is there anything else I can help you with regarding your project, such as drafting the text for your `LICENSE` file?**
