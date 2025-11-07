@@ -67,7 +67,7 @@ You can run this utility either by downloading the compiled executable (Recommen
 #### 2. Using the GUI
 
 1.  The **Quests Hunter** window will appear. It will attempt to connect to the remote server to fetch the latest quest banners and game links.
-2.  **Click on the quest banner/image** corresponding to the game you need to emulate.
+2.  **Click on Run Replica** corresponding to the game you need to emulate.
 3.  The application will automatically handle file creation, copying, and launching the placeholder executable to successfully spoof your game presence to Discord.
 4.  **Keep the console window and the launched process running** until your Discord Quest progress updates (typically 15-30 minutes of "playtime").
 5.  Once the quest is complete, you can safely close the launched process and the **Quests Hunter** application.
