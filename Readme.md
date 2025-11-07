@@ -1,3 +1,5 @@
+![Quests Hunter Advertisement Poster - Skip the Downloads](https://raw.githubusercontent.com/P1sco/QuestHunter/refs/heads/main/Assets/QuestHunter.png)
+
 ### 🎮 Quests Hunter: Lightweight Launcher for Discord Quests
 
 A simple, open-source **Python GUI application** that fetches and launches virtual game profiles, allowing users to complete Discord Quests without downloading full games. It works by emulating the required local file structure and launching a placeholder executable with the correct Discord Application ID.
