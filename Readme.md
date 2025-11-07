@@ -61,7 +61,7 @@ You can run this utility either by downloading the compiled executable (Recommen
 * **If using the executable:** Double-click the downloaded `QuestHunter.exe` file.
 * **If running from source:**
     ```bash
-    python testy.py
+    python questHunter.py
     ```
 
 #### 2. Using the GUI
