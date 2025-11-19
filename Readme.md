@@ -6,10 +6,21 @@ A simple, open-source **Python GUI application** that fetches and launches virtu
 
 ---
 
+### 🌐 Official Website & Downloads
+
+| Button | Link | Purpose |
+| :--- | :--- | :--- |
+| [🚀 **Download Latest Release (ZIP)**](https://github.com/P1sco/QuestHunter/releases/latest/download/QuestHunter-v1.2.2.zip) | `https://github.com/P1sco/QuestHunter/releases/latest/download/QuestHunter-v1.2.1.zip` | Direct link to the latest packaged release. |
+| [⭐ **Star Quest Hunter on GitHub**](https://github.com/P1sco/QuestHunter) | `https://github.com/P1sco/QuestHunter` | Encourages support and helps project visibility. |
+| [💖 **Donate via PayPal**](https://paypal.me/Oelbahy) | `https://paypal.me/Oelbahy` | Direct link for financial support. |
+
+---
+
+
 ### ✨ Features
 
 * **⚡ Lightweight & Fast:** Minimal footprint, no large game downloads required.
-* **🖼️ Dynamic Launcher:** Fetches the latest quest data (images and links) from a remote HTML source (`awhs.app/launcher/index.html`).
+* **🖼️ Dynamic Launcher:** Fetches the latest quest data (images and links) from a remote HTML source (`www.questhunter.dev/Data-Feed/index.html`).
 * **🛠️ Emulated Launch:** Automatically creates the necessary folder structure (`Binaries/Win64/...`) and copies placeholder files (`main.mfs`, `source.mui`) to successfully spoof game presence to Discord.
 * **🛡️ Open Source:** Fully transparent and auditable code base.
 
@@ -27,7 +38,7 @@ You can run this utility either by downloading the compiled executable (Recommen
 
 #### 1. Pre-compiled Executable (Recommended for Windows)
 
-1.  Go to the [**Releases Page**](https://github.com/P1sco/QuestHunter/releases/tag/1.1).
+1.  Go to the [**Releases Page**](https://github.com/P1sco/QuestHunter/releases/tag/1.2.1.0).
 2.  Download the latest executable file (e.g., `QuestHunter.exe` or the corresponding ZIP file).
 3.  Extract the contents to a location of your choice.
 4.  Proceed to **Usage** step 2.
