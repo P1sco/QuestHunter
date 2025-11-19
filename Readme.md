@@ -6,7 +6,7 @@ A simple, open-source **Python GUI application** that fetches and launches virtu
 
 ---
 
-### 🌐 Official Website & Downloads
+### Repository & Downloads
 
 | Button | Link | Purpose |
 | :--- | :--- | :--- |
