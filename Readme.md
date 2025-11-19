@@ -11,7 +11,7 @@ A simple, open-source **Python GUI application** that fetches and launches virtu
 | Button | Link | Purpose |
 | :--- | :--- | :--- |
 | [🚀 **Download Latest Release (ZIP)**](https://github.com/P1sco/QuestHunter/releases/download/1.2.1.0/QuestHunter-v1.2.1.zip) | `https://github.com/P1sco/QuestHunter/releases/latest/download/QuestHunter-v1.2.1.zip` | Direct link to the latest packaged release. |
-| [⭐ **Star Quest Hunter on GitHub**](https://github.com/P1sco/QuestHunter) | `https://github.com/P1sco/QuestHunter` | Encourages support and helps project visibility. |
+| [⭐ **Star QuestHunter on GitHub**](https://github.com/P1sco/QuestHunter) | `https://github.com/P1sco/QuestHunter` | Encourages support and helps project visibility. |
 | [💖 **Donate via PayPal**](https://paypal.me/Oelbahy) | `https://paypal.me/Oelbahy` | Direct link for financial support. |
 
 ---
