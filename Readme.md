@@ -38,7 +38,7 @@ You can run this utility either by downloading the compiled executable (Recommen
 
 #### 1. Pre-compiled Executable (Recommended for Windows)
 
-1.  Go to the [**Releases Page**](https://github.com/P1sco/QuestHunter/releases/tag/1.2.1.0).
+1.  Go to the [**Releases Page**](https://github.com/P1sco/QuestHunter/releases/tag/2.0).
 2.  Download the latest executable file (e.g., `QuestHunter.exe` or the corresponding ZIP file).
 3.  Extract the contents to a location of your choice.
 4.  Proceed to **Usage** step 2.
