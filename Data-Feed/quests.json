@@ -201,12 +201,5 @@
     "icon_url": "https://questhunter.dev/Assets/once_human.jpg",
     "exe_path": "Once Human\\Steam\\steamapps\\common\\TslGame\\Binaries\\Win64\\TslGame.exe",
     "local_icon_path": "Data-Feed\\Icons\\29.jpg"
-  },
-  {
-    "id": "30",
-    "name": "Roblox",
-    "icon_url": "https://questhunter.dev/Assets/rob.jpg",
-    "exe_path": "Once Human\\Steam\\steamapps\\common\\TslGame\\Binaries\\Win64\\TslGame.exe",
-    "local_icon_path": "Data-Feed\\Icons\\30.jpg"
   }
 ]
