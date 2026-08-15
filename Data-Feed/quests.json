@@ -1,9 +1,86 @@
 [
   {
-    "id": "123456789012345678",
-    "name": "Once Human",
-    "icon_url": "https://www.questhunter.dev/Assets/once_human.jpg",
-    "exe_path": "Binaries/Win64/OnceHuman.exe"
+    "id": "1",
+    "name": "Arknights: Endfield",
+    "icon_url": "https://questhunter.dev/Assets/ark.png",
+    "exe_path": "ArkKnights\\Endfield Game\\Endfield.exe",
+    "local_icon_path": "Data-Feed\\Icons\\ark.png"
+  },
+  {
+    "id": "2",
+    "name": "Marvel Rivals",
+    "icon_url": "https://questhunter.dev/Assets/riv.png",
+    "exe_path": "Marvel Rivals\\Game\\Binaries\\Win64\\Marvel-Win64-Shipping.exe",
+    "local_icon_path": "Data-Feed\\Icons\\riv.png"
+  },
+  {
+    "id": "3",
+    "name": "Wuthering Waves",
+    "icon_url": "https://questhunter.dev/Assets/wuw.png",
+    "exe_path": "Wuthering Waves\\Wuthering Waves Game\\Client\\Binaries\\Win64\\Client-Win64-Shipping.exe",
+    "local_icon_path": "Data-Feed\\Icons\\wuw.png"
+  },
+  {
+    "id": "4",
+    "name": "VALORANT",
+    "icon_url": "https://questhunter.dev/Assets/val.png",
+    "exe_path": "VALORANT\\live\\VALORANT.exe",
+    "local_icon_path": "Data-Feed\\Icons\\val.png"
+  },
+  {
+    "id": "5",
+    "name": "Honkai: Star Rail",
+    "icon_url": "https://questhunter.dev/Assets/hon.png",
+    "exe_path": "Honkai Star Rail\\Games\\StarRail.exe",
+    "local_icon_path": "Data-Feed\\Icons\\hon.png"
+  },
+  {
+    "id": "6",
+    "name": "Genshin Impact",
+    "icon_url": "https://questhunter.dev/Assets/gens.png",
+    "exe_path": "Genshin Impact\\Genshin Impact Game\\GenshinImpact.exe",
+    "local_icon_path": "Data-Feed\\Icons\\gens.png"
+  },
+  {
+    "id": "7",
+    "name": "Zenless Zone Zero",
+    "icon_url": "https://questhunter.dev/Assets/zen.png",
+    "exe_path": "ZenlessZoneZero\\ZenlessZoneZero Game\\ZenlessZoneZero.exe",
+    "local_icon_path": "Data-Feed\\Icons\\zen.png"
+  },
+  {
+    "id": "8",
+    "name": "Apex Legends",
+    "icon_url": "https://questhunter.dev/Assets/Apex.png",
+    "exe_path": "Apex\\r5apex.exe",
+    "local_icon_path": "Data-Feed\\Icons\\Apex.png"
+  },
+  {
+    "id": "9",
+    "name": "Fortnite",
+    "icon_url": "https://questhunter.dev/Assets/For.png",
+    "exe_path": "Fortnite\\FortniteGame\\Binaries\\Win64\\FortniteClient-Win64-Shipping.exe",
+    "local_icon_path": "Data-Feed\\Icons\\For.png"
+  },
+  {
+    "id": "10",
+    "name": "League of Legends",
+    "icon_url": "https://questhunter.dev/Assets/League.png",
+    "exe_path": "Riot Games\\League of Legends\\LeagueClient.exe",
+    "local_icon_path": "Data-Feed\\Icons\\League.png"
+  },
+  {
+    "id": "11",
+    "name": "Overwatch",
+    "icon_url": "https://questhunter.dev/Assets/Overwatch.png",
+    "exe_path": "Overwatch\\_retail_\\Overwatch.exe",
+    "local_icon_path": "Data-Feed\\Icons\\Overwatch.png"
+  },
+  {
+    "id": "12",
+    "name": "THE FINALS",
+    "icon_url": "https://questhunter.dev/Assets/The.png",
+    "exe_path": "THE FINALS\\Discovery\\Binaries\\Win64\\Discovery.exe",
+    "local_icon_path": "Data-Feed\\Icons\\The.png"
   }
-
 ]
