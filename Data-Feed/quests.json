@@ -24,7 +24,7 @@
     "id": "4",
     "name": "VALORANT",
     "icon_url": "https://questhunter.dev/Assets/val.jpg",
-    "exe_path": "VALORANT\\live\\VALORANT.exe",
+    "exe_path": "VALORANT\\Riot Games\\VALORANT\\live\\ShooterGame\\Binaries\\Win64\\VALORANT-Win64-Shipping.exe",
     "local_icon_path": "Data-Feed\\Icons\\4.jpg"
   },
   {
@@ -87,21 +87,21 @@
     "id": "13",
     "name": "Delta Force",
     "icon_url": "https://questhunter.dev/Assets/delta_force.jpg",
-    "exe_path": "Steam\\steamapps\\common\\Delta Force\\DeltaForce\\Binaries\\Win6\\DeltaForceClient-Win64-Shipping.exe",
+    "exe_path": "Delta Force\\Steam\\steamapps\\common\\Delta Force\\DeltaForce\\Binaries\\Win6\\DeltaForceClient-Win64-Shipping.exe",
     "local_icon_path": "Data-Feed\\Icons\\13.jpg"
   },
   {
     "id": "14",
     "name": "Grounded 2",
     "icon_url": "https://questhunter.dev/Assets/gr2.jpg",
-    "exe_path": "Steam\\steamapps\\common\\UngroundedII\\Binaries\\WinGRTS\\Grounded2-WinGRTS-Shipping.exe",
+    "exe_path": "Grounded2\\Steam\\steamapps\\common\\UngroundedII\\Binaries\\WinGRTS\\Grounded2-WinGRTS-Shipping.exe",
     "local_icon_path": "Data-Feed\\Icons\\14.jpg"
   },
   {
     "id": "15",
     "name": "Summoners War",
     "icon_url": "https://questhunter.dev/Assets/sw.jpg",
-    "exe_path": "steamapps\\common\\Summoners War\\SummonersWar.exe",
+    "exe_path": "Summoners War\\steamapps\\common\\Summoners War\\SummonersWar.exe",
     "local_icon_path": "Data-Feed\\Icons\\15.jpg"
   },
   {
@@ -115,92 +115,91 @@
     "id": "17",
     "name": "Highguard",
     "icon_url": "https://questhunter.dev/Assets/hg.jpg",
-    "exe_path": "steamapps\\common\\Highguard\\Highguard\\Binaries\\Win64\\HighguardClient-Win64-Shipping.exe",
+    "exe_path": "Highguard\\steamapps\\common\\Highguard\\Highguard\\Binaries\\Win64\\HighguardClient-Win64-Shipping.exe",
     "local_icon_path": "Data-Feed\\Icons\\17.jpg"
   },
   {
     "id": "18",
     "name": "Arena Breakout : Infinite",
     "icon_url": "https://questhunter.dev/Assets/abi.jpg",
-    "exe_path": "steamapps\\common\\Highguard\\Highguard\\Binaries\\Win64\\HighguardClient-Win64-Shipping.exe",
+    "exe_path": "Arena Breakout Infinite\\Steam\\steamapps\\common\\Arena Breakout Infinite\\ABInfinite\\Win64\\UAGame.exe",
     "local_icon_path": "Data-Feed\\Icons\\18.jpg"
   },
   {
     "id": "19",
     "name": "Blue Protocol : Star Reseonance",
     "icon_url": "https://questhunter.dev/Assets/bp.jpg",
-    "exe_path": "Steam\\steamapps\\common\\Blue Protocol Star Reseonance\\bpsr\\BPSR_STEAM.exe",
+    "exe_path": "Blue Protocol Star Reseonance\\Steam\\steamapps\\common\\Blue Protocol Star Reseonance\\bpsr\\BPSR_STEAM.exe",
     "local_icon_path": "Data-Feed\\Icons\\19.jpg"
   },
   {
     "id": "20",
     "name": "Torchlight Infinite",
     "icon_url": "https://questhunter.dev/Assets/tli.jpg",
-    "exe_path": "Steam\\steamapps\\common\\ATorchlight Infinite\\UE_Game\\Binaries\\Win64\\torchlight_infinite.exe",
+    "exe_path": "Torchlight Infinite\\Steam\\steamapps\\common\\ATorchlight Infinite\\UE_Game\\Binaries\\Win64\\torchlight_infinite.exe",
     "local_icon_path": "Data-Feed\\Icons\\20.jpg"
   },
   {
     "id": "21",
     "name": "Fallout 4",
     "icon_url": "https://questhunter.dev/Assets/f4.jpg",
-    "exe_path": "steamapps\\common\\Fallout 4\\Fallout4.exe",
+    "exe_path": "Fallout 4\\steamapps\\common\\Fallout 4\\Fallout4.exe",
     "local_icon_path": "Data-Feed\\Icons\\21.jpg"
   },
   {
     "id": "22",
     "name": "Arc Raiders",
     "icon_url": "https://questhunter.dev/Assets/ar.jpg",
-    "exe_path": "steamapps\\common\\Arc Raiders\\PioneerGame\\Binaries\\Win64\\PioneerGame.exe",
+    "exe_path": "Arc Raiders\\steamapps\\common\\Arc Raiders\\PioneerGame\\Binaries\\Win64\\PioneerGame.exe",
     "local_icon_path": "Data-Feed\\Icons\\22.jpg"
   },
   {
     "id": "23",
     "name": "Path of Exile 2",
     "icon_url": "https://questhunter.dev/Assets/poe2.jpg",
-    "exe_path": "steamapps\\common\\Path of Exile 2\\PathOfExileSteam.exe",
+    "exe_path": "Path Of Exile 2\\steamapps\\common\\Path of Exile 2\\PathOfExileSteam.exe",
     "local_icon_path": "Data-Feed\\Icons\\23.jpg"
   },
   {
     "id": "24",
     "name": "Comet Browser",
     "icon_url": "https://questhunter.dev/Assets/comet.jpg",
-    "exe_path": "Perplexity\\Comet\\Application\\Comet.exe",
+    "exe_path": "Comet Browser\\Perplexity\\Comet\\Application\\Comet.exe",
     "local_icon_path": "Data-Feed\\Icons\\24.jpg"
   },
   {
     "id": "25",
     "name": "Risk of Rain 2",
     "icon_url": "https://questhunter.dev/Assets/ror2.jpg",
-    "exe_path": "Steam\\steamapps\\common\\Risk of Rain 2\\Risk of Rain 2.exe",
+    "exe_path": "Risk of Rain 2\\Steam\\steamapps\\common\\Risk of Rain 2\\Risk of Rain 2.exe",
     "local_icon_path": "Data-Feed\\Icons\\25.jpg"
   },
   {
     "id": "26",
     "name": "Terminull Brigade",
     "icon_url": "https://questhunter.dev/Assets/tb.jpg",
-    "exe_path": "steamapps\\common\\Project Rogueteers\\Rouge\\Binaries\\Win64\\Rouge-Win64-Shipping.exe",
+    "exe_path": "Terminull Brigade\\steamapps\\common\\Project Rogueteers\\Rouge\\Binaries\\Win64\\Rouge-Win64-Shipping.exe",
     "local_icon_path": "Data-Feed\\Icons\\26.jpg"
   },
   {
     "id": "27",
     "name": "PRAGMATA SKETCHBOOK",
     "icon_url": "https://questhunter.dev/Assets/ps.jpg",
-    "exe_path": "steamapps\\common\\PRAGMATA SKETCHBOOK - DEMO\\PRAGMATA_SKETCHBOOK.exe",
+    "exe_path": "Pragmata Sketchbook\\steamapps\\common\\PRAGMATA SKETCHBOOK - DEMO\\PRAGMATA_SKETCHBOOK.exe",
     "local_icon_path": "Data-Feed\\Icons\\27.jpg"
   },
   {
     "id": "28",
     "name": "PUBG: Battlegrounds",
     "icon_url": "https://questhunter.dev/Assets/wwm.jpg",
-    "exe_path": "Steam\\steamapps\\common\\TslGame\\Binaries\\Win64\\TslGame.exe",
+    "exe_path": "PUBG\\Steam\\steamapps\\common\\TslGame\\Binaries\\Win64\\TslGame.exe",
     "local_icon_path": "Data-Feed\\Icons\\28.jpg"
   },
   {
     "id": "29",
     "name": "Once Human",
     "icon_url": "https://questhunter.dev/Assets/once_human.jpg",
-    "exe_path": "Steam\\steamapps\\common\\TslGame\\Binaries\\Win64\\TslGame.exe",
-    "local_icon_path": "Data-Feed\\Icons\\28.jpg"
+    "exe_path": "Once Human\\Steam\\steamapps\\common\\TslGame\\Binaries\\Win64\\TslGame.exe",
+    "local_icon_path": "Data-Feed\\Icons\\29.jpg"
   }
-
 ]
