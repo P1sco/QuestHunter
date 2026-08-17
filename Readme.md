@@ -47,7 +47,7 @@ cd QuestHunter
 python questHunter.py
 ```
 
-**⚠️ One extra step for source users:** You need to create the `main.mfs` file that the launcher copies and rename it to main.mfs and move it to /Binaries/Win64/.
+** One extra step for source users:** You need to create the `main.mfs` file that the launcher copies and rename it to main.mfs and move it to /Binaries/Win64/.
 
 1. Package `gif.py` into an executable:
    ```bash
