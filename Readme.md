@@ -92,7 +92,8 @@ python questHunter.py
 To build the EXE:
 ```bash
 pip install pyinstaller
-pyinstaller --onefile --windowed questHunter.py
+pyinstaller --onefile --noconsole questHunter.py
+pyinstaller --onefile --noconsole gif.py
 ```
 
 ## Support
