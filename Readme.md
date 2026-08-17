@@ -99,7 +99,7 @@ pyinstaller --onefile --windowed questHunter.py
 
 If this saved you from downloading 200GB of games, feel free to [buy me a coffee](https://paypal.me/Oelbahy). Or just star the repo—that helps too.
 
-## 📄 License
+## License
 
 MIT License—use it, modify it, do whatever.
 
