@@ -64,7 +64,7 @@ python questHunter.py
 6. Check your Discord quest progress—it should count up
 7. Close everything when you're done
 
-## ❓ FAQ
+## FAQ
 
 **Q: Will I get banned?**
 A: Most likely not, but it's technically against Discord's ToS.
@@ -95,7 +95,7 @@ pip install pyinstaller
 pyinstaller --onefile --windowed questHunter.py
 ```
 
-## 💖 Support
+## Support
 
 If this saved you from downloading 200GB of games, feel free to [buy me a coffee](https://paypal.me/Oelbahy). Or just star the repo—that helps too.
 
