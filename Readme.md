@@ -12,7 +12,7 @@ A tool that lets you complete Discord Quests without downloading entire games. I
 
 | What | Link |
 |------|------|
-| Latest Release | [Download Here](https://github.com/P1sco/QuestHunter/releases/tag/v2.1.0) |
+| Latest Release | [Download Here](https://github.com/P1sco/QuestHunter/releases/download/v2.1.0/QuestHunter.v2.1.0.zip) |
 | Star the Repo | [GitHub](https://github.com/P1sco/QuestHunter) |
 | Buy me a coffee | [PayPal](https://paypal.me/Oelbahy) |
 
