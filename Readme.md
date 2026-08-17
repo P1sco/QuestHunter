@@ -10,7 +10,7 @@ A simple, open-source **Python GUI application** that fetches and launches virtu
 
 | Button | Link | Purpose |
 | :--- | :--- | :--- |
-| [🚀 **Download Latest Release (ZIP)**](https://github.com/P1sco/QuestHunter/releases/download/2.0/QuestHunter.rar) | `https://github.com/P1sco/QuestHunter/releases/download/2.0/QuestHunter.rar` | Direct link to the latest packaged release. |
+| [🚀 **Download Latest Release (ZIP)**](https://github.com/P1sco/QuestHunter/releases/tag/v2.1.0) | `https://github.com/P1sco/QuestHunter/releases/tag/v2.1.0` | Direct link to the latest packaged release. |
 | [⭐ **Star QuestHunter on GitHub**](https://github.com/P1sco/QuestHunter) | `https://github.com/P1sco/QuestHunter` | Encourages support and helps project visibility. |
 | [💖 **Donate via PayPal**](https://paypal.me/Oelbahy) | `https://paypal.me/Oelbahy` | Direct link for financial support. |
 
@@ -38,7 +38,7 @@ You can run this utility either by downloading the compiled executable (Recommen
 
 #### 1. Pre-compiled Executable (Recommended for Windows)
 
-1.  Go to the [**Releases Page**](https://github.com/P1sco/QuestHunter/releases/tag/2.0).
+1.  Go to the [**Releases Page**](https://github.com/P1sco/QuestHunter/releases/tag/v2.1.0).
 2.  Download the latest executable file (e.g., `QuestHunter.exe` or the corresponding ZIP file).
 3.  Extract the contents to a location of your choice.
 4.  Proceed to **Usage** step 2.
