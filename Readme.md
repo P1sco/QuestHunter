@@ -1,121 +1,106 @@
-![Quests Hunter Advertisement Poster - Skip the Downloads](https://raw.githubusercontent.com/P1sco/QuestHunter/refs/heads/main/Assets/QuestHunter.png)
+# QuestHunter
 
-### 🎮 Quests Hunter: Lightweight Launcher for Discord Quests
+A tool that lets you complete Discord Quests without downloading entire games. It fakes the game files Discord looks for, so you can get your rewards without wasting storage space.
 
-A simple, open-source **Python GUI application** that fetches and launches virtual game profiles, allowing users to complete Discord Quests without downloading full games. It works by emulating the required local file structure and launching a placeholder executable with the correct Discord Application ID.
+## Real Talk
 
----
+**This is a proof-of-concept tool.** It emulates game presence by creating the folder structure Discord expects and running a placeholder executable.
 
-### Repository & Downloads
+**Use it at your own risk.** I'm not responsible if Discord decides to take action against your account. That said, I've been using it myself for a while without issues—just don't be stupid about it.
 
-| Button | Link | Purpose |
-| :--- | :--- | :--- |
-| [🚀 **Download Latest Release (ZIP)**](https://github.com/P1sco/QuestHunter/releases/tag/v2.1.0) | `https://github.com/P1sco/QuestHunter/releases/tag/v2.1.0` | Direct link to the latest packaged release. |
-| [⭐ **Star QuestHunter on GitHub**](https://github.com/P1sco/QuestHunter) | `https://github.com/P1sco/QuestHunter` | Encourages support and helps project visibility. |
-| [💖 **Donate via PayPal**](https://paypal.me/Oelbahy) | `https://paypal.me/Oelbahy` | Direct link for financial support. |
+## Downloads
 
----
+| What | Link |
+|------|------|
+| Latest Release | [Download Here](https://github.com/P1sco/QuestHunter/releases/tag/v2.1.0) |
+| Star the Repo | [GitHub](https://github.com/P1sco/QuestHunter) |
+| Buy me a coffee | [PayPal](https://paypal.me/Oelbahy) |
 
+## What It Does
 
-### ✨ Features
+- **Lightweight** – No 100GB downloads. Just a tiny executable.
+- **Emulates game presence** – Creates the exact folder structure for the games Discord checks for.
+- **Open source** – You can read every line of code yourself.
 
-* **⚡ Lightweight & Fast:** Minimal footprint, no large game downloads required.
-* **🖼️ Dynamic Launcher:** Fetches the latest quest data (images and links) from a remote HTML source (`www.questhunter.dev/Data-Feed/index.html`).
-* **🛠️ Emulated Launch:** Automatically creates the necessary folder structure (`Binaries/Win64/...`) and copies placeholder files (`main.mfs`, `source.mui`) to successfully spoof game presence to Discord.
-* **🛡️ Open Source:** Fully transparent and auditable code base.
+## How to Use
 
----
+### Option 1: Download the EXE (Easiest)
 
-### ⚠️ Disclaimer & Important Notice
+1. Go to the [Releases Page](https://github.com/P1sco/QuestHunter/releases)
+2. Download `QuestHunter.exe` (or the latest ZIP)
+3. Extract it somewhere you'll remember
+4. Run `QuestHunter.exe`
 
-> This software is intended for educational and convenience purposes only. Use it responsibly and understand that using any software to bypass intended game requirements may violate Discord's Terms of Service. **Use at your own risk.** The authors are not responsible for any actions taken against your Discord account.
+### Option 2: Run from Source
 
----
+If you prefer running Python directly:
 
-### ⬇️ Installation
+```bash
+# Install dependencies
+pip install PyQt6
 
-You can run this utility either by downloading the compiled executable (Recommended for ease of use) or by running it directly from the Python source code.
+# Clone the repo
+git clone https://github.com/P1sco/QuestHunter
+cd QuestHunter
 
-#### 1. Pre-compiled Executable (Recommended for Windows)
+# Run it
+python questHunter.py
+```
 
-1.  Go to the [**Releases Page**](https://github.com/P1sco/QuestHunter/releases/tag/v2.1.0).
-2.  Download the latest executable file (e.g., `QuestHunter.exe` or the corresponding ZIP file).
-3.  Extract the contents to a location of your choice.
-4.  Proceed to **Usage** step 2.
+**⚠️ One extra step for source users:** You need to create the `main.mfs` file that the launcher copies and rename it to main.mfs and move it to /Binaries/Win64/.
 
-#### 2. From Source
+1. Package `gif.py` into an executable:
+   ```bash
+   pyinstaller --onefile --noconsole gif.py
+   ```
 
-*This method requires [Python 3](https://www.python.org/downloads/) and the necessary libraries.*
+### Actually Using the Tool
 
-1.  **Install Required Libraries:** Open your terminal or command prompt and run:
-    ```bash
-    pip install requests beautifulsoup4 Pillow
-    ```
-2.  Clone the repository:
-    ```bash
-    git clone [https://github.com/P1sco/QuestHunter](https://github.com/P1sco/QuestHunter)
-    cd QuestHunter
-    ```
-3.  **Critical Step: Create Template Files**
-    The launcher requires two placeholder files in a specific directory to perform the necessary file copying for emulation:
-    * Create a directory structure: `Binaries/Win64/en-US`
-    * Place your placeholder files here:
-        * `Binaries/Win64/en-US/source.mui`
-    * Compile and Executable of Gif.py to main.exe and rename it to main.mfs and plac it here:
-        * `Binaries/Win64/main.mfs`
-    > **Note:** These files should be the lightweight stub files you intend to use for the emulation process.
+1. Open QuestHunter
+2. It'll fetch the latest quests from the feed
+3. Pick the game you want, click "Launch Replica"
+4. The tool creates all the fake files Discord looks for
+5. Keep it running for 15 minutes
+6. Check your Discord quest progress—it should count up
+7. Close everything when you're done
 
----
+## ❓ FAQ
 
-### 🚀 Usage
+**Q: Will I get banned?**
+A: Most likely not, but it's technically against Discord's ToS.
 
-#### 1. Launch the Application
+**Q: Why not just download the actual game?**
+A: Some of these games are 100GB+. Not everyone has that kind of storage or bandwidth.
 
-* **If using the executable:** Double-click the downloaded `QuestHunter.exe` file.
-* **If running from source:**
-    ```bash
-    python questHunter.py
-    ```
+**Q: Is this a virus?**
+A: It's open source—check the code yourself. No weird network activity, no data collection. Just Python.
 
-#### 2. Using the GUI
+**Q: What's the "Deep Search" feature?**
+A: If a game isn't in the main feed, click "Deep Search" and it'll pull data straight from Discord's own database. Works for pretty much any detectable game.
 
-1.  The **Quests Hunter** window will appear. It will attempt to connect to the remote server to fetch the latest quest banners and game links.
-2.  **Click on Run Replica** corresponding to the game you need to emulate.
-3.  The application will automatically handle file creation, copying, and launching the placeholder executable to successfully spoof your game presence to Discord.
-4.  **Keep the console window and the launched process running** until your Discord Quest progress updates (typically 15-30 minutes of "playtime").
-5.  Once the quest is complete, you can safely close the launched process and the **Quests Hunter** application.
+## Building Your Own Version
 
----
+If you want to modify it:
 
-### 💖 Support the Developer
+```bash
+git clone https://github.com/P1sco/QuestHunter
+cd QuestHunter
+# Make your changes
+python questHunter.py
+```
 
-If you find Quests Hunter useful and would like to support its continued development and maintenance, any tips or donations are greatly appreciated!
+To build the EXE:
+```bash
+pip install pyinstaller
+pyinstaller --onefile --windowed questHunter.py
+```
 
-* **PayPal:** [paypal.me/Oelbahy](https://paypal.me/Oelbahy)
+## 💖 Support
 
----
+If this saved you from downloading 200GB of games, feel free to [buy me a coffee](https://paypal.me/Oelbahy). Or just star the repo—that helps too.
 
-### 🤝 Contributing
+## 📄 License
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1.  Fork the Project.
-2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
-3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`).
-4.  Push to the Branch (`git push origin feature/AmazingFeature`).
-5.  Open a Pull Request.
-
----
-
-### 📜 License
-
-Distributed under the **MIT License**. See `LICENSE` for more information.
-
----
-
-### ✉️ Contact
-
-Pisco - [https://github.com/P1sco/](https://github.com/P1sco/)
-Project Link: [https://github.com/P1sco/QuestHunter](https://github.com/P1sco/QuestHunter)
+MIT License—use it, modify it, do whatever.
 
 ---
