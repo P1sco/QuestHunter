@@ -201,5 +201,12 @@
     "icon_url": "https://questhunter.dev/Assets/once_human.jpg",
     "exe_path": "Once Human\\Steam\\steamapps\\common\\TslGame\\Binaries\\Win64\\TslGame.exe",
     "local_icon_path": "Data-Feed\\Icons\\29.jpg"
+  },
+  {
+    "id": "30",
+    "name": "Marvel Tokon : Fighting Souls",
+    "icon_url": "https://questhunter.dev/Assets/tokon.png",
+    "exe_path": "Marvel Tokon - Fightinbg Souls\\Steam\\steamapps\\common\\MTFS\\Binaries\\Win64\\MTFSSteam-Win64-Shipping.exe",
+    "local_icon_path": "Data-Feed\\Icons\\30.jpg"
   }
 ]
