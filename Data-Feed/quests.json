@@ -208,5 +208,12 @@
     "icon_url": "https://questhunter.dev/Assets/tokon.png",
     "exe_path": "Marvel Tokon - Fightinbg Souls\\Steam\\steamapps\\common\\MTFS\\Binaries\\Win64\\MTFSSteam-Win64-Shipping.exe",
     "local_icon_path": "Data-Feed\\Icons\\30.jpg"
+  },
+  {
+    "id": "31",
+    "name": "Roblox",
+    "icon_url": "https://questhunter.dev/Assets/roblix.jpg",
+    "exe_path": "Roblox\\roblox.exe",
+    "local_icon_path": "Data-Feed\\Icons\\3.jpg"
   }
 ]
