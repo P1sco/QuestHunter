@@ -191,7 +191,7 @@
   {
     "id": "28",
     "name": "PUBG: Battlegrounds",
-    "icon_url": "https://questhunter.dev/Assets/wwm.jpg",
+    "icon_url": "https://questhunter.dev/Assets/pubg.jpg",
     "exe_path": "PUBG\\Steam\\steamapps\\common\\TslGame\\Binaries\\Win64\\TslGame.exe",
     "local_icon_path": "Data-Feed\\Icons\\28.jpg"
   },
@@ -212,7 +212,7 @@
   {
     "id": "31",
     "name": "Roblox",
-    "icon_url": "https://questhunter.dev/Assets/roblix.jpg",
+    "icon_url": "https://questhunter.dev/Assets/roblox.jpg",
     "exe_path": "Roblox\\roblox.exe",
     "local_icon_path": "Data-Feed\\Icons\\31.jpg"
   },
