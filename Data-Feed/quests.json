@@ -222,5 +222,12 @@
     "icon_url": "https://questhunter.dev/Assets/hd2.jpg",
     "exe_path": "Helldivers 2\\bin\\helldivers2.exe",
     "local_icon_path": "Data-Feed\\Icons\\32.jpg"
+  },
+  {
+    "id": "33",
+    "name": "Call of Duty - Modern Warfare 4",
+    "icon_url": "https://questhunter.dev/Assets/cod.png",
+    "exe_path": "Call of Duty - Modern Warfare 4\\cod.exe",
+    "local_icon_path": "Data-Feed\\Icons\\33.jpg"
   }
 ]
