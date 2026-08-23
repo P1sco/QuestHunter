@@ -6,7 +6,7 @@ A tool that lets you complete Discord Quests without downloading entire games. I
 
 **This is a proof-of-concept tool.** It emulates game presence by creating the folder structure Discord expects and running a placeholder executable.
 
-**Use it at your own risk.** I'm not responsible if Discord decides to take action against your account. That said, I've been using it myself for a while without issues—just don't be stupid about it.
+**Use it at your own risk.** I'm not responsible if Discord decides to take action against your account. That said, I've been using it myself for a while without issues..just don't be stupid about it.
 
 ## Downloads
 
