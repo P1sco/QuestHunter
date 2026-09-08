@@ -234,7 +234,7 @@
     "id": "34",
     "name": "Onimusha - Way of the sword,
     "icon_url": "https://questhunter.dev/Assets/oni.png",
-    "exe_path": "Onimusha\OnimushaWotS_Demo\OnimushaWotS_Demo.exe",
+    "exe_path": "Onimusha\\OnimushaWotS_Demo\\OnimushaWotS_Demo.exe",
     "local_icon_path": "Data-Feed\\Icons\\oni.jpg"
   }
 ]
