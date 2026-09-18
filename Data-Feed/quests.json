@@ -236,5 +236,12 @@
     "icon_url": "https://questhunter.dev/Assets/oni.png",
     "exe_path": "Onimusha\\OnimushaWotS_Demo\\OnimushaWotS_Demo.exe",
     "local_icon_path": "Data-Feed\\Icons\\oni.jpg"
+  },
+  {
+    "id": "35",
+    "name": "Aniimo",
+    "icon_url": "https://questhunter.dev/Assets/animo.png",
+    "exe_path": "Aniimo\\Aniimo.exe",
+    "local_icon_path": "Data-Feed\\Icons\\animo.png"
   }
 ]
