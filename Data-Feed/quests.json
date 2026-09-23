@@ -243,5 +243,12 @@
     "icon_url": "https://questhunter.dev/Assets/animo.png",
     "exe_path": "Aniimo\\Aniimo.exe",
     "local_icon_path": "Data-Feed\\Icons\\animo.png"
+  },
+    {
+    "id": "36",
+    "name": "Gravebound",
+    "icon_url": "https://questhunter.dev/Assets/gravebound.jpg",
+    "exe_path": "Gravebound\\gravebound.exe",
+    "local_icon_path": "Data-Feed\\Icons\\gravebound.jpg"
   }
 ]
